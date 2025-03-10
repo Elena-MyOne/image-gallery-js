@@ -1,3 +1,6 @@
+
+![image0gallery-js](https://github.com/user-attachments/assets/95f427f4-5fb1-4177-a544-0829fc013412)
+
 # Image Gallery Unsplash API
 
 ## Overview
